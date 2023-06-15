@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - A program that ptints a line using printf
  *
  * return: Always 0 (seccess)
  */

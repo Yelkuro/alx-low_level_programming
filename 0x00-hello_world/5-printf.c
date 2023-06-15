@@ -2,7 +2,7 @@
 /**
  * main - A program that ptints a line using printf
  *
- * return: Always 0 (seccess)
+ * Return: Always 0 (seccess)
  */
 int main(void)
 {

@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - main entry here
- * Return: 0 (success)
+ * main - entry here
+ * Return: Always 0 (success)
  */
 int main(void)
 {

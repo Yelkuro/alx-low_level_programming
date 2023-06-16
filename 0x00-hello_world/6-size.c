@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * main - A C program that prints the size of compiled programs
+ *
  * Return: Always 0 (success)
+ *
  */
 int main(void)
 {

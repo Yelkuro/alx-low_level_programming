@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - entry here
- * Return: Always 0 (success)
+ * Return: 1 (success)
  */
 int main(void)
 {
